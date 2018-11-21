@@ -4,7 +4,7 @@ import java.awt.Rectangle;
 import java.util.Random;
 
 /**
- * ´ú±íµ°
+ * ï¿½ï¿½ï¿½ï¿½
  * @author Administrator
  *
  */
@@ -59,3 +59,5 @@ public class Egg {
 	}
 	
 }
+
+//
